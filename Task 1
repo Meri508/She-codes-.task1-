@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Our first html project</title>
+</head>
+<body>
+
+    
+    <h1>press the link </h1>
+    <p>Click the following link to visit Google:</p>
+    <a href="https://www.google.com" target="_blank">Visit OpenAI</a>
+
+    
+    <h2>"pooh's image"</h2>
+    <img src=" https://www.pngegg.com/en/search?q=winnie+the+pooh.jpg " alt="winnie the pooh" >
+
+    
+    <h2>Example of programming languages </h2>
+    <ol>
+        <li>hyper text markup language</li>
+        <li> c++ </li>
+        <li> java </li>
+    </ol>
+
+    
+    <h2> An Unordered list of fruit names </h2>
+    <ul>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Cherry</li>
+    </ul>
+
+</body>
+</html>
