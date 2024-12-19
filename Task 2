@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task2 </title>
+ <body>
+     <h1> forms to be filled</h1>
+    <p>
+        fill the form below
+       <def>
+        <form>
+         <label>Full name</label>
+         <input type="text" placeholder="enter your full name">
+        
+         <label>Username</label>
+         
+         <input type="text" placerholder="enter your name"> 
+         <label>password</label>
+         <input type="password" placeholder="enter your password">
+         <label>email</label>
+         <input type="character" placeholder="Enter your email">
+         </def>
+         
+     </form>
+     </p>
+     
+ </body>  
+    
+    
+    
+        
+    
+</html>
