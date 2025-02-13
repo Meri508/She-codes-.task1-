@@ -1,0 +1,75 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <style>
+       body {
+           
+    background-color:gray;
+    
+       }
+       form {
+           border-style:solid , 1px;
+     background-color: white;
+     margin: 5px 30px 5px;
+     padding: 30px;
+     width: fit-content;
+     display: flex;
+     flex-direction: column;
+        border-radius: 20px;
+        gap: 5px;
+       }
+       h1{
+           text-align: center;
+           
+       }
+       p{
+           text-align: center;
+       }
+       button{
+           background-color: blue;
+       }
+        
+       label{
+        text-align: left;
+       }
+       .form{
+        display: flex;
+        justify-content: center;
+       }
+   </style>
+        
+        
+    
+</head>
+<body>
+    
+
+    <h1>user registration</h1>
+    <p>please fill out the form below to create account</p>
+    <div class="form">
+    <form>
+<h2>personal information</h2>
+        <label>Full name:</label>
+        <input type="text" placeholder="enter your email">
+        
+<label>email:</label>
+       
+        <input type="text" placeholder="enter your email">
+        
+        <h2>Account detail</h2>
+        <label>Username:</label>
+        <input type="text" placeholder="enter you Username">
+        <label>Password:</label>
+        <input type="password" placeholder="enter your password">
+      
+ <label>confirm password:</label>
+        <input type="text" placeholder="confirm your password">
+        <button> Register</button>
+        
+    </form>
+</div>
+</body>
+</html>
