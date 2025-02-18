@@ -3,14 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" herf="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
     <title>MY PORTFOLIO</title>
-
-
 </head>
 <style>
     body {
-        background-image: url('image/creative-geometric-design-space_53876-89781.jpg');
+        background-image: url('creative-geometric-design-space_53876-89781.jpg');
         color: beige;
     .styled-image {
         width: 50px;
@@ -51,37 +49,31 @@ input{
     color: rgb(77, 67, 67);
     text-decoration: none;
     transition: 0.3s;
-
 }
 .footer-social{
     float: right;
 }
-
 </style>
 <body>
     
     <div style="display:grid;">
     <nav>
-     <img src="image/images.png" alt="" class="styled-image"> 
+     <img src="images.png" alt="" class="styled-image"> 
      <div style="float:right ">
     <a href="">HOME </a>  
     <a href="">ABOUT </a>
     <a href="">PROJECTS</a>
     <a href="">CONTACT US</a>
-
     </nav>
 </div>
 </div>
 <h1>HOME</h1>
-<div><img src="image/images.jpg" alt="" style=" float: right;"; >
-
+<div><img src="images.jpg" alt="" style=" float: right;"; >
     <p>I’m sophia, a web developer focused on creating responsive and user-friendly websites. With experience in key technologies, I bring ideas to life through clean and efficient code.</p></div>
-
 <h1>ABOUT</h1>
-
 <p>As a web developer, I possess a strong foundation in both front-end and back-end technologies that enable me to build comprehensive and dynamic web applications. My expertise in HTML, CSS, and JavaScript allows me to create visually appealing and responsive user interfaces that enhance user experience across various devices. I am proficient in modern frameworks such as React and Vue.js, which enable me to develop interactive single-page applications efficiently.</p>
 <h1>PROJECTS</h1>
-<img src="image/images (2).jpg" alt="">
+<img src="images (2).jpg" alt="">
 <ol type="a" start="list-counter 2">
    <h2><li> ChatBot</li></h2> 
    <p>The chatbot project aims to develop an AI-powered virtual assistant capable of automating customer support and user interactions. Built using technologies like Python, Node.js, NLP, OpenAI API, Dialogflow, and TensorFlow, the chatbot will be designed to handle real-time conversations efficiently.</p>
@@ -91,7 +83,6 @@ input{
     
     <p>The image recognition project focuses on developing a machine learning model capable of identifying and classifying objects within images.</p>
 </ol>
-
 <h1>CONTACT US</h1>
 <div style="margin: 0cap; height:auto;">
 <form>
